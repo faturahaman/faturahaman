@@ -1,6 +1,6 @@
 ## Hey there! I'm Riffa! 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+my+name+is+RIffat;I+am+Newbie+Programer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+my+name+is+Muhamad+Riffa+Faturahman;I+am+Newbie+Programer)](https://git.io/typing-svg)
 
 
 ### 🎮 About Me
