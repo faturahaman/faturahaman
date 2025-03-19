@@ -1,17 +1,7 @@
 ## Hey there! I'm Riffa! 
 
-```
-  ██████  ██▓ ▄████▄   ██░ ██ ▓█████  ██▓    ▄▄▄       ██▀███  
-▒██    ▒ ▓██▒▒██▀ ▀█  ▓██░ ██▒▓█   ▀ ▓██▒   ▒████▄    ▓██ ▒ ██▒
-░ ▓██▄   ▒██▒▒▓█    ▄ ▒██▀▀██░▒███   ▒██░   ▒██  ▀█▄  ▓██ ░▄█ ▒
-  ▒   ██▒░██░▒▓▓▄ ▄██▒░▓█ ░██ ▒▓█  ▄ ▒██░   ░██▄▄▄▄██ ▒██▀▀█▄  
-▒██████▒▒░██░▒ ▓███▀ ░░▓█▒░██▓░▒████▒░██████▒▓█   ▓██▒░██▓ ▒██▒
-▒ ▒▓▒ ▒ ░░▓  ░ ░▒ ▒  ░ ▒ ░░▒░▒░░ ▒░ ░░ ▒░▓  ░▒▒   ▓▒█░░ ▒▓ ░▒▓░
-░ ░▒  ░ ░ ▒ ░  ░  ▒    ▒ ░▒░ ░ ░ ░  ░░ ░ ▒  ░ ▒   ▒▒ ░  ░▒ ░ ▒░
-░  ░  ░   ▒ ░░         ░  ░░ ░   ░     ░ ░    ░   ▒     ░░   ░ 
-      ░   ░  ░ ░       ░  ░  ░   ░  ░   ░  ░     ░  ░   ░     
-         ░
-```
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+Hi_selamat_datang)](https://git.io/typing-svg)
+
 
 ### 🎮 About Me
 - 🖥️ Passionate about coding and game development
@@ -19,7 +9,7 @@
 - 📖 Currently learning **React & Laravel 11**
 
 ### 📊 GitHub Stats
-![GitHub Stats](https://pixel-profile.vercel.app/api/github-stats?username=faturahaman&theme=journey&pixelate_avatar=false)
+![GitHub Stats](https://pixel-profile.vercel.app/api/github-stats?username=faturahaman&theme=road_trip&pixelate_avatar=false)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faturahaman&layout=compact&theme=gruvbox)
 
 ### 🔗 Connect with Me
