@@ -17,7 +17,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your_handle)
 
 ### 🕹️ Fun Stuff
-![GitHub Snake](https://raw.githubusercontent.com/faturahaman/faturahaman/output/github-contribution-grid-snake.svg)
+![GitHub Snake](https://raw.githubusercontent.com/faturahaman/faturahaman/output/github-snake.svg)
+
 
 ### 🎨 Pixel Art Badges
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
