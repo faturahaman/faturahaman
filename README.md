@@ -19,7 +19,7 @@
 - 📖 Currently learning **React & Laravel 11**
 
 ### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=faturahaman&show_icons=true&theme=gruvbox)
+![GitHub Stats](https://pixel-profile.vercel.app/api/github-stats?username=faturahaman&theme=journey&pixelate_avatar=false)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faturahaman&layout=compact&theme=gruvbox)
 
 ### 🔗 Connect with Me
