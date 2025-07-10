@@ -1,30 +1,72 @@
-## Hey there! I'm Riffa! 
+## 👋 Hey there! I'm Riffa!
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+my+name+is+Muhamad+Riffa+Faturahman;I+am+Newbie+Programer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello,+my+name+is+Muhamad+Riffa+Faturahman;I+am+a+Newbie+Programmer;Learning+React+%26+Laravel+11!&center=true&width=500)](https://git.io/typing-svg)
 
+---
 
 ### 🎮 About Me
-- 🖥️ Passionate about coding and game development
-- 🚀 Love working on creative projects
-- 📖 Currently learning **React & Laravel 11**
+
+- 🖥️ Passionate about coding and game development  
+- 🚀 Love working on creative and fun projects  
+- 📖 Currently learning **React & Laravel 11**  
+- 🎯 Always curious and eager to improve!
+
+---
 
 ### 📊 GitHub Stats
-![GitHub Stats](https://pixel-profile.vercel.app/api/github-stats?username=faturahaman&theme=road_trip&pixelate_avatar=false)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faturahaman&layout=compact&theme=gruvbox)
+
+| ![Pixel GitHub Stats](https://pixel-profile.vercel.app/api/github-stats?username=faturahaman&theme=road_trip&pixelate_avatar=false) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faturahaman&layout=compact&theme=tokyonight) |
+|------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------|
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=faturahaman&theme=discord" />
+  <br />
+  <img src="https://komarev.com/ghpvc/?username=faturahaman&label=Profile+Views&color=blue&style=flat" />
+</p>
+
+---
+
+### 🔧 Tools & Languages
+
+<p align="left">
+  <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="js" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vue" width="40" />
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" />
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" />
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" />
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" />
+</p>
+
+---
 
 ### 🔗 Connect with Me
-[![Instagram](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your_handle)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your_handle)
 
-### 🕹️ Fun Stuff
-![GitHub Snake](https://raw.githubusercontent.com/faturahaman/faturahaman/output/github-snake.svg)
+<p align="left">
+  <a href="https://linkedin.com/in/muhamad-riffa-faturahman" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/riffa_122" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?&style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://fb.com/rarkenta" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?&style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+  <a href="https://www.youtube.com/@riffa122" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?&style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
+</p>
 
+---
 
-### 🎨 Pixel Art Badges
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+### 🎵 *"Press Start to Continue..."*
 
-🎵 *"Press Start to Continue..."*
+---
